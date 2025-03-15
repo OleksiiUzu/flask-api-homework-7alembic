@@ -15,8 +15,8 @@ Alembic is a database migration tool for SQLAlchemy.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/OleksiiUzu/flask-api-homework-7alembic.git
-   cd flask-api-homework-7alembic
+   git clone https://github.com/OleksiiUzu/flask-api-homework-7-alembic.git
+   cd flask-api-homework-7-alembic
 2.(Optional) Create and activate a virtual environment:
   python -m venv venv
   source venv/bin/activate
